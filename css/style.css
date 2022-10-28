@@ -45,6 +45,7 @@ nav ul li a{
     text-align: center;
     margin-top: 200px;
     margin-right: 800px;
+    z-index: 999;
 }
 
 .partext{
@@ -55,7 +56,7 @@ nav ul li a{
     margin-right: 650px;
     padding-left: 220px;
     padding-top: 20px;
-    z-index: 999;
+    z-index: 995;
     font-size: larger;
 
 }
